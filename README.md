@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leondore
 - 👀 I’m interested in development, beer and video games.
-- 🌱 I’m currently expanding my knowledge of the JavaScript ecosystem, and learning Python, Go and Rust.
+- 🌱 I’m currently expanding my knowledge of the JavaScript/TypeScript ecosystem, and learning Python, Go and Rust.
 - 📫 You can reach me at leon.dore@gmail.com.
 
 <!---
